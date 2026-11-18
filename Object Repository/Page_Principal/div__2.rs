@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__2</name>
+   <tag></tag>
+   <elementGuidId>0520b7b8-37ec-4e77-9bbc-80bf51103d60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '' or . = '')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 15)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-lrvibr ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(15) .r-lrvibr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17c5e061-4b2c-4f5f-ac38-da71f183e006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a6d4347a-e401-4f4d-a916-dae39eebc59f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-146c3p1 r-lrvibr</value>
+      <webElementGuid>7560385c-fa0b-418d-aed5-a0a8a970fb0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>9e393743-ad01-44af-8907-f12918f03f0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c8d78eabcbe59c2a90105e57b95097ec</value>
+      <webElementGuid>e594af84-f0cd-4b96-a1d4-3e4651b8f410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 15)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-lrvibr ')]</value>
+      <webElementGuid>658cd8d6-5533-463b-a410-0ce8a336a400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>6c8d7b98-5468-4052-adff-9b65cb17b721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 15)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-lrvibr ')]</value>
+      <webElementGuid>e8e3bebd-8d23-4799-9842-999028f707bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '' or . = '')]</value>
+      <webElementGuid>13889b13-c707-4cf1-ba0a-c209dfa1d3a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 6)]//*[(name() = 'div') and (position() = 3)]</value>
+      <webElementGuid>bfac3b05-8142-4c73-9487-e2c8ed927c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '' or . = '')]</value>
+      <webElementGuid>e3fcd5d2-6fcc-4b6c-b9cd-d60a8547d138</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

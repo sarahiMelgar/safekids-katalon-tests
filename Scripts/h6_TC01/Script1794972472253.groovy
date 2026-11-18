@@ -18,3 +18,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('https://safekids-17k2.onrender.com/')
+
+WebUI.setText(findTestObject('Page_Login/input_correoejemplo.com'), 'lh425081@gmail.com')
+
+WebUI.click(findTestObject('Page_Login/div_'))
+
+WebUI.setEncryptedText(findTestObject('Page_Login/input_Tu contrasea'), 'bzJtPPkZlzcpV+ayg+0pGg==')
+
+WebUI.click(findTestObject('Page_Login/div_Iniciar sesin'))
+
+WebUI.click(findTestObject('Page_Principal/div_Historial'))
+
+WebUI.click(findTestObject('Page_Principal/div_Rutas temporales'))
+
+WebUI.click(findTestObject('Page_Principal/div_Escuela'))
+
+WebUI.click(findTestObject('Page_Principal/input_14_00'))
+
+WebUI.doubleClick(findTestObject('Page_Principal/input_14_00'))
+
+WebUI.click(findTestObject('Page_Principal/input_14_00'))
+
+WebUI.setText(findTestObject('Page_Principal/input_2026-11-20'), '2026-11-16')
+
+WebUI.setText(findTestObject('Page_Principal/input_14_00'), '13:00')
+
+WebUI.setText(findTestObject('Page_Principal/input_18_00'), '23:00')
+
+WebUI.click(findTestObject('Page_Principal/div_Autorizar ruta'))
+

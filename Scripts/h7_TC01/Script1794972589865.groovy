@@ -18,3 +18,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('https://safekids-17k2.onrender.com/')
+
+WebUI.setText(findTestObject('Page_Login/input_correoejemplo.com'), 'lh425081@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Page_Login/input_Tu contrasea'), 'bzJtPPkZlzcpV+ayg+0pGg==')
+
+WebUI.click(findTestObject('Page_Login/div_Iniciar sesin'))
+
+WebUI.click(findTestObject('Page_Principal/div_Alertas'))
+
+WebUI.click(findTestObject('Page_Principal/div_Activar notificaciones'))
+
+WebUI.click(findTestObject('Page_Principal/div_Sin leer'))
+
+WebUI.click(findTestObject('Page_Principal/div_Todas'))
+

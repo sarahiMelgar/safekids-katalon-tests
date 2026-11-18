@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Escuela_1</name>
+   <tag></tag>
+   <elementGuidId>fadba43d-4584-47a3-95bc-69e072c73e28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 12)]//*[@type = 'button']//*[(@dir = 'auto') and (name() = 'div') and (position() = 2)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(12) [type=&quot;button&quot;] div[dir=&quot;auto&quot;]:nth-child(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Escuela&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ce55b719-faac-4a35-b747-b5155aa1cebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>1af816a1-983d-4877-9c7e-d0a5c96487cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-146c3p1 r-e0dy3h r-1b43r93 r-b88u0q</value>
+      <webElementGuid>4a58ea63-e17d-4641-bfdf-e9612be4020b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Escuela</value>
+      <webElementGuid>53bda251-38a3-4208-b346-abc9d54cd6de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bec67a31ff8065469368e6d832c2de42</value>
+      <webElementGuid>e5806655-ee4b-48ad-b1e5-2f481add9218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 12)]//*[@type = 'button']//*[(@dir = 'auto') and (name() = 'div') and (position() = 2)]</value>
+      <webElementGuid>368aaa80-fc39-4001-a179-e1aac386802b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 12)]//*[@type = 'button']//*[(@dir = 'auto') and (name() = 'div') and (position() = 2)]</value>
+      <webElementGuid>b1dbfd28-fa63-4713-9953-c4c32a9579b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Escuela' or . = 'Escuela')]</value>
+      <webElementGuid>60ca2c55-8092-42e0-b413-bea3944abbc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

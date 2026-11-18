@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__4</name>
+   <tag></tag>
+   <elementGuidId>8953591d-271e-4805-beeb-3c8758aaf28f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 2)]/*[(name() = 'div') and (position() = 2)]/div/*[(name() = 'div') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-lrvibr ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(2) > div:nth-child(2) > div > div:nth-child(5) .r-lrvibr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01886e71-6b4e-4b43-8dfa-8854db9c9ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>638a8c37-8ce2-4edd-9779-5964e1a878df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-146c3p1 r-lrvibr</value>
+      <webElementGuid>cd165c38-6dac-42a3-b544-8d329df35628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>7a3060ef-e453-4b4d-b72e-8278672228d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-85276d10a3d3d7e5e472fa18f707f92a</value>
+      <webElementGuid>fb26a58d-4bff-48bd-9ba9-0d40625376dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 2)]/*[(name() = 'div') and (position() = 2)]/div/*[(name() = 'div') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-lrvibr ')]</value>
+      <webElementGuid>4cbdfda4-5f4d-4493-a1e2-44503f18dd0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 2)]/*[(name() = 'div') and (position() = 2)]/div/*[(name() = 'div') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-lrvibr ')]</value>
+      <webElementGuid>9e6d266e-2d9d-49a0-8c3d-a13dd91f554c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '' or . = '')]</value>
+      <webElementGuid>5299c131-b5f2-4331-9f0e-7ca188cc8c25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -18,3 +18,37 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('https://safekids-17k2.onrender.com/')
+
+WebUI.setText(findTestObject('Page_Login/input_correoejemplo.com'), 'llh425081@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Page_Login/input_Tu contrasea'), 'bzJtPPkZlzcpV+ayg+0pGg==')
+
+WebUI.click(findTestObject('Page_Login/div_Iniciar sesin'))
+
+WebUI.click(findTestObject('Page_Login/div_'))
+
+WebUI.setText(findTestObject('Page_Login/input_correoejemplo.com'), 'lh425081@gmail.com')
+
+WebUI.click(findTestObject('Page_Login/div_Iniciar sesin_1'))
+
+WebUI.click(findTestObject('Page_Principal/div_Historial'))
+
+WebUI.click(findTestObject('Page_Principal/div_'))
+
+WebUI.click(findTestObject('Page_Principal/div_css-g5y9jx r-1p0dtai r-1d2f490 r-u8s1d r-zch'))
+
+WebUI.click(findTestObject('Page_Principal/div_No hay recorrido registrado este da'))
+
+WebUI.click(findTestObject('Page_Principal/div_'))
+
+WebUI.click(findTestObject('Page_Principal/div_No hay recorrido registrado este da'))
+
+WebUI.doubleClick(findTestObject('Page_Principal/div_No hay recorrido registrado este da'))
+
+WebUI.click(findTestObject('Page_Principal/div_Sbado, 14 de noviembre de 2026'))
+
+WebUI.doubleClick(findTestObject('Page_Principal/div_Sbado, 14 de noviembre de 2026'))
+
