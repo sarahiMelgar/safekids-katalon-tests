@@ -18,3 +18,41 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('https://safekids-17k2.onrender.com/')
+
+WebUI.click(findTestObject('Page_Login/div_Registrarme'))
+
+WebUI.click(findTestObject('Page_Registro/div_'))
+
+WebUI.click(findTestObject('Page_Registro/input_Tu nombre'))
+
+WebUI.doubleClick(findTestObject('Page_Registro/input_Tu nombre'))
+
+WebUI.setText(findTestObject('Page_Registro/input_Tu nombre'), ': Ana López')
+
+WebUI.setText(findTestObject('Page_Registro/input_Tu nombre'), ' Ana López')
+
+WebUI.click(findTestObject('Page_Registro/div__1'))
+
+WebUI.setText(findTestObject('Page_Registro/input_correoejemplo.com'), 'ana@test.com')
+
+WebUI.click(findTestObject('Page_Registro/input_10 dgitos'))
+
+WebUI.doubleClick(findTestObject('Page_Registro/input_10 dgitos'))
+
+WebUI.setText(findTestObject('Page_Registro/input_10 dgitos'), '5512345678')
+
+WebUI.click(findTestObject('Page_Registro/input_8 caracteres, mayscula y smbolo'))
+
+WebUI.doubleClick(findTestObject('Page_Registro/input_8 caracteres, mayscula y smbolo'))
+
+WebUI.setEncryptedText(findTestObject('Page_Registro/input_8 caracteres, mayscula y smbolo'), '9OZSCXPBzZuqXCLJW9DsVg==')
+
+WebUI.click(findTestObject('Page_Registro/div__2'))
+
+WebUI.click(findTestObject('Page_Registro/div_css-g5y9jx r-1awozwy r-14lw9ot r-12uivnu r-k'))
+
+WebUI.click(findTestObject('Page_Registro/div_Registrarme'))
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hoy</name>
+   <tag></tag>
+   <elementGuidId>ecceb02f-51f9-42c4-917c-523b35f1a591</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(16) div:nth-child(1) div[dir=&quot;auto&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 16)]//*[(name() = 'div') and (position() = 1)]//div[@dir = 'auto']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e72510b8-311c-4561-9e1d-f5052b47c009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>63a85cb2-36e5-43ff-bbef-b673b04e3d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-146c3p1 r-e0dy3h r-n6v787 r-b88u0q</value>
+      <webElementGuid>daa9c68a-0a15-4408-b9fb-aaa899a33091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hoy</value>
+      <webElementGuid>d1ca9a88-34a4-41f2-a620-532383a18627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ab452f664b6d0bed42ef897a4bbf1a8d</value>
+      <webElementGuid>209f57fd-ad06-488d-8fde-26fc1fd3ec09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 16)]//*[(name() = 'div') and (position() = 1)]//div[@dir = 'auto']</value>
+      <webElementGuid>e588bcce-f30f-4694-9baf-a92ebf1d6cc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 16)]//*[(name() = 'div') and (position() = 1)]//div[@dir = 'auto']</value>
+      <webElementGuid>04a117b9-f0df-4039-971d-dc941a123868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hoy' or . = 'Hoy')]</value>
+      <webElementGuid>1c629b01-af68-4f23-8485-1402af26a9ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
