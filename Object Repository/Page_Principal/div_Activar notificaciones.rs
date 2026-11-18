@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>abfd6590-9a0b-466b-a4ba-4103ff8f2991</webElementGuid>
+      <webElementGuid>2fdeb707-f01a-48a1-a1df-02d8f3afc310</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-g5y9jx r-1awozwy r-4zvafu r-102gzdx r-1777fci r-1udh08x</value>
-      <webElementGuid>f47b94c6-017d-48c7-b101-af464dfd8a7a</webElementGuid>
+      <webElementGuid>ece3a0ae-c7a8-411d-bbae-d32455ab86d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Activar notificaciones</value>
-      <webElementGuid>f5e08433-8931-4a5f-a984-8ac7e93e79ed</webElementGuid>
+      <webElementGuid>6a974397-ff20-4f38-96ea-a8ce494b97ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-76c623519210a27332ca0bafe2e28713</value>
-      <webElementGuid>b9f6363e-2439-42f2-85a9-619517282d74</webElementGuid>
+      <webElementGuid>10492dd1-7ac9-4d1d-955d-854f25f305be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(name() = 'div') and (position() = 3)]//*[@type = 'button']/div</value>
-      <webElementGuid>8e674dae-3dea-449d-bd60-c7102407dd6d</webElementGuid>
+      <webElementGuid>1bf202ae-f926-4f73-b07f-804ec69abdd4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(name() = 'div') and (position() = 3)]//*[@type = 'button']/div</value>
-      <webElementGuid>ed2a1617-8f27-4cc1-ade4-8c4b6f8cf839</webElementGuid>
+      <webElementGuid>585e2c97-048e-4cc0-966d-0fd67da28f75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Activar notificaciones' or . = 'Activar notificaciones')]</value>
-      <webElementGuid>43f00eea-44d1-4409-8885-d444bcc5a1b6</webElementGuid>
+      <webElementGuid>a587c266-2cb9-47e5-a5d7-b8e07a551415</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

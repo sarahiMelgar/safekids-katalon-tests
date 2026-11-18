@@ -7,22 +7,22 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = '' or . = '')]</value>
+         <value>//*[(text() = '' or . = '')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[(name() = 'div') and (position() = 9)]//*[(name() = 'div') and (position() = 2)]/div</value>
+         <value>//*[(name() = 'div') and (position() = 8)]//*[(name() = 'div') and (position() = 2)]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div:nth-child(9) div:nth-child(2) > div</value>
+         <value>div:nth-child(8) div:nth-child(2) > div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;&quot;i</value>
+         <value>div >> internal:has-text=/^$/ >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>72f334ba-68e1-4eec-b22b-31a28c51b17b</webElementGuid>
+      <webElementGuid>d5db22b5-4132-4c76-8d41-1dbc1ef6413d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,32 +49,48 @@
       <name>class</name>
       <type>Main</type>
       <value>css-g5y9jx r-16y2uox r-1udh08x r-1awozwy r-18u37iz r-1sn7ly2 r-1ubuhtd</value>
-      <webElementGuid>a39728d8-6306-4650-9633-b1c196f76ab7</webElementGuid>
+      <webElementGuid>316fea10-77ab-4725-988c-5a33f621e4f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>39ac9476-578c-4776-97c8-fb4381597aa4</webElementGuid>
+      <value></value>
+      <webElementGuid>0e570ae3-0084-4c90-9014-d87e5d72478f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-4d82de8e266a35306fa6d3fee436058d</value>
-      <webElementGuid>fc146010-93eb-4c67-8a5c-e4163f2d5695</webElementGuid>
+      <value>md5.v1-e702dd4b0c135f202cd17408af13aa41</value>
+      <webElementGuid>b69e56c6-9f55-4176-b1d4-d6d2a9a3ad43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(name() = 'div') and (position() = 9)]//*[(name() = 'div') and (position() = 2)]/div</value>
-      <webElementGuid>b7499169-5f05-4e83-a9fe-f9fc42731159</webElementGuid>
+      <value>//*[(name() = 'div') and (position() = 8)]//*[(name() = 'div') and (position() = 2)]/div</value>
+      <webElementGuid>a433b4c7-b855-4901-b38e-58bfb4b1b098</webElementGuid>
    </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 8)]//*[(name() = 'div') and (position() = 2)]/div</value>
+      <webElementGuid>292972ae-c503-4481-9925-991d154551ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '' or . = '')]</value>
+      <webElementGuid>07c83529-c1cc-4802-b13c-877aea5d84b3</webElementGuid>
+   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -90,22 +106,6 @@
       <type>Main</type>
       <value>//div[(text() = '' or . = '')]</value>
       <webElementGuid>5cd7aae7-790b-4086-83b5-ee20b1a73f49</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//*[(name() = 'div') and (position() = 8)]//*[(name() = 'div') and (position() = 2)]/div</value>
-      <webElementGuid>ccf43af4-55a5-408f-89bd-c8f6455d44ec</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = '' or . = '')]</value>
-      <webElementGuid>8ef52d2f-e0ca-4067-beeb-0512826854d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7c4a42e7-17d2-4dbb-ab96-f551dc53071f</webElementGuid>
+      <webElementGuid>d5d379e3-211f-4893-be69-0927fe5f97f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-g5y9jx r-1awozwy r-13awgt0 r-1777fci</value>
-      <webElementGuid>d7cd57c9-dfb5-40bf-b878-b6a2ed2f9961</webElementGuid>
+      <webElementGuid>38e9b8f9-4046-420a-90bc-70c1ce915a8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SafeKids</value>
-      <webElementGuid>b994ebc9-56d3-438a-baa0-b33ce83b3df6</webElementGuid>
+      <webElementGuid>b5f30321-9e33-4319-b0e1-e14348fa9a38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-54a29ebe8dd6b222c9e49863eba60399</value>
-      <webElementGuid>d6a695bb-9312-44be-bc25-50cd24c440e3</webElementGuid>
+      <webElementGuid>664e8485-df75-4322-a4a5-98abee79cfc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-zchlnj ')]/div/div/div/*[(name() = 'div') and (position() = 2)]</value>
-      <webElementGuid>e3fe91b5-9303-467f-af20-13a75113e51b</webElementGuid>
+      <webElementGuid>43f430b4-b597-48d3-8159-52aed60897e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-zchlnj ')]/div/div/div/*[(name() = 'div') and (position() = 2)]</value>
-      <webElementGuid>73b7c00a-75c1-4cdd-a005-15433a9b914b</webElementGuid>
+      <webElementGuid>2ab0e693-a8b0-483a-bc55-e27def794d53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'SafeKids' or . = 'SafeKids')]</value>
-      <webElementGuid>006483fa-54da-40e5-b6a6-91f1e1b685e2</webElementGuid>
+      <webElementGuid>12e68722-ecbd-46be-ab2e-ba1cb436802e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id = 'm' and (text() = '+− Leaflet | © OpenStreetMap' or . = '+− Leaflet | © OpenStreetMap')]</value>
+         <value>//*[@id = 'm' and (text() = 'Pablo+− Leaflet | © OpenStreetMap' or . = 'Pablo+− Leaflet | © OpenStreetMap')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[id=&quot;m&quot;]</value>
+         <value>internal:text=&quot;Pablo+− Leaflet | © OpenStreetMap&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>fa7c41b7-c6f8-4759-b3c6-259d5a41514b</webElementGuid>
+      <webElementGuid>e4473efc-e241-42c8-98db-cc0e4694ff1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>id</name>
       <type>Main</type>
       <value>m</value>
-      <webElementGuid>e5ebcaf1-978e-465c-9423-18d5a76ba9b8</webElementGuid>
+      <webElementGuid>ea69195d-4e72-46d9-9209-eb7542aaf343</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom</value>
-      <webElementGuid>fad4c144-dd6a-46c5-9280-aa9ac2b550f7</webElementGuid>
+      <webElementGuid>0022d31c-dd0e-4b95-b2af-1560948bccad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,23 +57,23 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>246c1ea8-4862-45b7-8588-19706f0878f5</webElementGuid>
+      <webElementGuid>bf8ae022-4237-422d-a37e-937e0551bb5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>+− Leaflet | © OpenStreetMap</value>
-      <webElementGuid>ab444485-d673-4df6-85a6-21b2ba886d2e</webElementGuid>
+      <value>Pablo+− Leaflet | © OpenStreetMap</value>
+      <webElementGuid>aebb8d35-9065-4f9f-9fd6-970f94177f4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-c8a0b6bf055f771c4260e9b94d55fbf4</value>
-      <webElementGuid>419ea03d-a05c-4f28-a571-09dc836f2474</webElementGuid>
+      <value>md5.v1-955d51d17e59e0db700df1e57e9290bd</value>
+      <webElementGuid>53e56270-ff84-4a71-aadf-d84783c1abc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,15 +81,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'm']</value>
-      <webElementGuid>1554ba8c-1d6a-421b-8740-abea555017b8</webElementGuid>
+      <webElementGuid>c041e255-1376-451a-b2c3-4c357222f4be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Principal/iframe_ltima posicin</value>
-      <webElementGuid>5a64589b-bd6b-40b4-b8ae-67672a54be93</webElementGuid>
+      <value>Object Repository/Page_Principal/iframe_Pablo</value>
+      <webElementGuid>4bb7eb41-cc83-4ffd-9915-f4ca9d84c4f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'm']</value>
-      <webElementGuid>9612010b-e1e9-46be-a9f1-c7e4c57808e0</webElementGuid>
+      <webElementGuid>4f1e3980-559c-425f-8e81-bfa45402ee14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'm' and (text() = 'Pablo+− Leaflet | © OpenStreetMap' or . = 'Pablo+− Leaflet | © OpenStreetMap')]</value>
+      <webElementGuid>eb245859-616f-4b4e-bf24-cde8306b0036</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>10be258a-4029-40ee-ba41-ccf4f9e93aff</webElementGuid>
+      <webElementGuid>a54df62b-b76d-4fb8-9662-2bd68dbc1168</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-g5y9jx r-1awozwy r-6ncur5 r-18u37iz r-1iud8zs r-3pj75a</value>
-      <webElementGuid>aea7a329-3cdf-40a3-aa67-18508c0bfd3d</webElementGuid>
+      <webElementGuid>16135765-56bc-4cf1-9ef8-1fde63da70b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Alertas</value>
-      <webElementGuid>044644fc-de02-4639-a1e3-ff123638872e</webElementGuid>
+      <webElementGuid>7a114884-dac9-405b-bd3c-30fafb4fc643</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-4371cc2e15dd2d7386339a9f3dceb4dc</value>
-      <webElementGuid>0f04d0cb-841d-401a-afdd-50eb6f6b97aa</webElementGuid>
+      <webElementGuid>8bb4a4bc-8761-46d8-9ea6-8436f81ad250</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(@type = 'button') and (position() = 4)]/div</value>
-      <webElementGuid>fc71f050-e465-42f6-a735-a8a46503f6db</webElementGuid>
+      <webElementGuid>0c48a4b2-9ec4-4f2e-9694-2f70c9cdc6b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(@type = 'button') and (position() = 4)]/div</value>
-      <webElementGuid>5ca20407-c6ea-4c7a-b0fd-110d8aed8926</webElementGuid>
+      <webElementGuid>a97abedf-b775-4672-923f-09430ee946e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Alertas' or . = 'Alertas')]</value>
-      <webElementGuid>7c659b95-a496-4026-bb0a-c31595e17468</webElementGuid>
+      <webElementGuid>86f3ed72-25f2-4551-88a2-d1dee1cb6433</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
