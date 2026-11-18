@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cerrar sesión e intentar ingresar con contraseña incorrecta.</description>
+   <name>HU1_TC02</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Sarahi Melgar</value>
+         </entry>
+         <entry>
+<<<<<<< HEAD:Test Cases/h1_TC02.tc
+            <key>lastModifiedByName</key>
+            <value>Angelica Barrera</value>
+         </entry>
+         <entry>
+=======
+>>>>>>> 8b21419226d89bc86bfc865e923ebf12c8153fc7:Test Cases/HU1_TC02.tc
+            <key>createdByUuid</key>
+            <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Sarahi Melgar</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>fe3b9928-9282-41ae-85fd-abb052c35843</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68170a3a-a4d1-4f05-91d8-2867db206e35</testCaseGuid>
+</TestCaseEntity>

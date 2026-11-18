@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Maana</name>
+   <tag></tag>
+   <elementGuidId>4eac9d43-fc89-487a-b330-6caa76c178e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Mañana' or . = 'Mañana')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 16)]//*[(name() = 'div') and (position() = 2)]//div[@dir = 'auto']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(16) div:nth-child(2) div[dir=&quot;auto&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Mañana&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c7ff800c-ead9-4352-90f0-ab50a36e9f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>9cd76d96-4369-4321-b814-63aa5c603944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-146c3p1 r-e0dy3h r-n6v787 r-b88u0q</value>
+      <webElementGuid>25fc7325-5e05-44ed-8182-82c137bebbdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mañana</value>
+      <webElementGuid>438dc576-6479-4369-86c6-382273235b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a9e7c11648e312e225ea541bfda71357</value>
+      <webElementGuid>41b4552b-dc5e-4ac8-babc-d31edfab8638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 16)]//*[(name() = 'div') and (position() = 2)]//div[@dir = 'auto']</value>
+      <webElementGuid>5718caf7-c98b-40d8-a8d1-9d1041ef99f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 16)]//*[(name() = 'div') and (position() = 2)]//div[@dir = 'auto']</value>
+      <webElementGuid>372e3795-b7f5-4dd5-ad0d-e150de50fba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mañana' or . = 'Mañana')]</value>
+      <webElementGuid>37481417-b238-4fca-b8a5-23fa3c0515fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

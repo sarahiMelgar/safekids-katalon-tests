@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Escuela</name>
+   <tag></tag>
+   <elementGuidId>3f9f6b4d-54ab-4b86-807f-c0ae5287f63b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(12) [type=&quot;button&quot;]:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 12)]//*[(@type = 'button') and (position() = 2)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3b15e3e4-533b-42f5-a582-e83482294a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a32526d9-3a68-45d8-8c4a-01494fb77fe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>53466547-07c7-43ff-9716-1d93a443b703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-g5y9jx r-1loqt21 r-1otgn73 r-1awozwy r-1dzvdtw r-p1rij4 r-t23y2h r-1rf8fdq r-18u37iz r-ojf8lh r-eu3ka r-3o4zer</value>
+      <webElementGuid>233ae66c-ed51-4936-bf90-3efc3031b97d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a93e828d-d7ce-4e74-b468-73f082c2dc43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Escuela</value>
+      <webElementGuid>5b2ec659-907e-4ff4-b19a-18b9a5a0e0db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a16e05e14f8da92a41faf39a6ccefa7d</value>
+      <webElementGuid>e8f2a32b-d077-4623-8ba7-96e57200405f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 12)]//*[(@type = 'button') and (position() = 2)]</value>
+      <webElementGuid>c3033d41-01d0-43b5-9177-f4f764b86fbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 12)]//*[(@type = 'button') and (position() = 2)]</value>
+      <webElementGuid>3b5c2de9-251d-4645-9b6b-3ef1ecfea525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Escuela' or . = 'Escuela')]</value>
+      <webElementGuid>40823225-19fa-48cf-ac00-cc836c6c6b50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

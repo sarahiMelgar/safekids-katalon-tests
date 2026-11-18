@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alertas_1</name>
+   <tag></tag>
+   <elementGuidId>1eb5fa4e-4f00-4e72-81a0-be0a8ab74a0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@type = 'button') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-ubezar ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[type=&quot;button&quot;]:nth-child(4) .r-ubezar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Alertas&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d8a6139-e4b8-473b-9275-dc4159df8f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>1c6e5980-b5d8-4a2e-81fe-c3d0a4d11257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-146c3p1 r-ubezar r-b88u0q r-19u6a5r</value>
+      <webElementGuid>d8525d1a-a20b-4493-aec3-05c0ff4d94b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alertas</value>
+      <webElementGuid>1d24a759-47e3-43ca-b93f-6564dfc222b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7adf6fb08a4dbcee33351d83d1fa152f</value>
+      <webElementGuid>4db7d9ad-7acb-4f76-b623-f41cae70be5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@type = 'button') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-ubezar ')]</value>
+      <webElementGuid>6b202adb-34c1-4591-9dc0-3758a62b440d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@type = 'button') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-ubezar ')]</value>
+      <webElementGuid>94bacdf0-89fe-4ad9-94dc-7f6cf27957ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alertas' or . = 'Alertas')]</value>
+      <webElementGuid>634e41dc-60b2-4b8e-824f-8fec60702aa2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -18,3 +18,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('https://safekids-17k2.onrender.com/')
+
+WebUI.click(findTestObject('Page_Login/div_Registrarme'))
+
+WebUI.setText(findTestObject('Page_Registro/input_correoejemplo.com'), 'padresafekids.com')
+
+WebUI.click(findTestObject('Page_Registro/div_'))
+
+WebUI.setText(findTestObject('Page_Registro/input_10 dgitos'), '5548741237')
+
+WebUI.setEncryptedText(findTestObject('Page_Registro/input_8 caracteres, mayscula y smbolo'), 'lg/rdDN2EUfOxhN08acqdw==')
+
+WebUI.click(findTestObject('Page_Registro/div_TRMINOS Y CONDICIONESAcepto trminos'))
+
+WebUI.click(findTestObject('Page_Registro/div_css-g5y9jx r-1awozwy r-14lw9ot r-12uivnu r-k'))
+
+WebUI.click(findTestObject('Page_Registro/div_Registrarme'))
+

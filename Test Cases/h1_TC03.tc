@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Intentar entrar a rutas internas (/inicio o /alertas) sin sesión iniciada.</description>
+   <description></description>
    <name>h1_TC03</name>
    <tag></tag>
    <integratedEntity>
@@ -8,7 +8,7 @@
       <properties>
          <entry>
             <key>createdByName</key>
-            <value>Sarahi Melgar</value>
+            <value>Angelica Barrera</value>
          </entry>
          <entry>
             <key>lastModifiedByName</key>
@@ -16,7 +16,7 @@
          </entry>
          <entry>
             <key>createdByUuid</key>
-            <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+            <value>fe3b9928-9282-41ae-85fd-abb052c35843</value>
          </entry>
          <entry>
             <key>lastModifiedByUuid</key>
@@ -27,5 +27,5 @@
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d12aca27-14a6-4533-84ef-c2c04895431e</testCaseGuid>
+   <testCaseGuid>c691e08d-19ee-47a8-9720-321b7f74f272</testCaseGuid>
 </TestCaseEntity>

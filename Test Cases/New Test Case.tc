@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Kike</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Kike</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>f4ab6917-8f29-4938-bc9f-82f1d0586dba</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>f4ab6917-8f29-4938-bc9f-82f1d0586dba</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>542870ed-4a57-4cd7-9367-0a2bdadc5172</testCaseGuid>
+</TestCaseEntity>

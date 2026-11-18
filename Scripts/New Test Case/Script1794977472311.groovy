@@ -20,17 +20,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(null)
 
-WebUI.navigateToUrl('https://safekids-17k2.onrender.com')
+WebUI.click(findTestObject('Page_Principal/div_m'))
 
-WebUI.setText(findTestObject('Page_Login/Page_Login/input_correoejemplo.com'), 'padre@safekids.com')
+WebUI.click(findTestObject('Page_Principal/div_div'))
 
-WebUI.setEncryptedText(findTestObject('Page_Login/Page_Login/input_Tu contrasea'), '9OZSCXPBzZuqXCLJW9DsVg==')
-
-WebUI.click(findTestObject('Page_Login/Page_Login/div_Iniciar sesin'))
-
-WebUI.setText(findTestObject('Page_Login/Page_Login/input_correoejemplo.com'), 'padre@safekids.com')
-
-WebUI.setEncryptedText(findTestObject('Page_Login/Page_Login/input_Tu contrasea'), '9OZSCXPBzZuqXCLJW9DsVg==')
-
-WebUI.click(findTestObject('Page_Login/Page_Login/div_Iniciar sesin_1'))
+WebUI.click(findTestObject('Page_Principal/div_m'))
 

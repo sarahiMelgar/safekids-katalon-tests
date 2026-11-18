@@ -18,3 +18,65 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('https://safekids-17k2.onrender.com/')
+
+WebUI.click(findTestObject('Page_Login/div_'))
+
+WebUI.setText(findTestObject('Page_Login/input_correoejemplo.com'), 'lh425981@gmail.com')
+
+WebUI.click(findTestObject('Page_Login/input_Tu contrasea'))
+
+WebUI.setText(findTestObject('Page_Login/input_correoejemplo.com'), 'lh425081@gmail.com')
+
+WebUI.click(findTestObject('Page_Login/div__1'))
+
+WebUI.setEncryptedText(findTestObject('Page_Login/input_Tu contrasea'), 'bzJtPPkZlzcpV+ayg+0pGg==')
+
+WebUI.click(findTestObject('Page_Login/div_Iniciar sesin'))
+
+WebUI.click(findTestObject('Page_Principal/div_Historial'))
+
+WebUI.click(findTestObject('Page_Principal/div_'))
+
+WebUI.doubleClick(findTestObject('Page_Principal/div_'))
+
+WebUI.click(findTestObject('Page_Principal/div_'))
+
+WebUI.doubleClick(findTestObject('Page_Principal/div_'))
+
+WebUI.click(findTestObject('Page_Principal/div_'))
+
+WebUI.doubleClick(findTestObject('Page_Principal/div_'))
+
+WebUI.click(findTestObject('Page_Principal/div_'))
+
+WebUI.click(findTestObject('Page_Principal/div_Martes, 17 de noviembre de 2026'))
+
+WebUI.doubleClick(findTestObject('Page_Principal/div_Martes, 17 de noviembre de 2026'))
+
+WebUI.click(findTestObject('Page_Principal/div__1'))
+
+WebUI.click(findTestObject('Page_Principal/div__2'))
+
+WebUI.click(findTestObject('Page_Principal/div_Martes, 17 de noviembre de 2026_1'))
+
+WebUI.doubleClick(findTestObject('Page_Principal/div_Martes, 17 de noviembre de 2026_1'))
+
+WebUI.click(findTestObject('Page_Principal/div_'))
+
+WebUI.doubleClick(findTestObject('Page_Principal/div_'))
+
+WebUI.click(findTestObject('Page_Principal/div_'))
+
+WebUI.click(findTestObject('Page_Principal/div_Martes, 17 de noviembre de 2026'))
+
+WebUI.click(findTestObject('Page_Principal/div_'))
+
+WebUI.doubleClick(findTestObject('Page_Principal/div_'))
+
+WebUI.click(findTestObject('Page_Principal/div_'))
+
+WebUI.closeBrowser()
+

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Ejecutar script Katalon: Ingresar correo y contraseña válidos y dar clic en 'Iniciar Sesión'.</description>
+   <description></description>
    <name>h1_TC01</name>
    <tag></tag>
    <integratedEntity>
@@ -8,7 +8,7 @@
       <properties>
          <entry>
             <key>createdByName</key>
-            <value>Sarahi Melgar</value>
+            <value>Angelica Barrera</value>
          </entry>
          <entry>
             <key>lastModifiedByName</key>
@@ -16,7 +16,7 @@
          </entry>
          <entry>
             <key>createdByUuid</key>
-            <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+            <value>fe3b9928-9282-41ae-85fd-abb052c35843</value>
          </entry>
          <entry>
             <key>lastModifiedByUuid</key>
@@ -27,5 +27,5 @@
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>bd760e57-d9cc-4cc1-adfb-635507a7b3c1</testCaseGuid>
+   <testCaseGuid>8f2b4916-99be-46c3-928c-e711e4e6f136</testCaseGuid>
 </TestCaseEntity>

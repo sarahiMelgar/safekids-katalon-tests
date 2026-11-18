@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Casa</name>
+   <tag></tag>
+   <elementGuidId>5fa206d7-b857-4a67-8b82-d438385b86f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-vuvdlw ') and (position() = 1)]//div[@dir = 'auto']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.r-vuvdlw:nth-child(1) div[dir=&quot;auto&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Casa&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4817db8-7b8c-4793-a746-851c5e07353c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>f87edab6-1d4f-4108-a53c-62b893856570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-146c3p1 r-e0dy3h r-n6v787 r-b88u0q</value>
+      <webElementGuid>db97be66-20c8-432a-bf60-51064fdbff1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Casa</value>
+      <webElementGuid>084f2596-6fbc-457d-badc-70035e6b8801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bbe0c0972d923d5369fdefe92dbe707f</value>
+      <webElementGuid>3bf206ed-e434-4d67-ab12-79b10dc3e9aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-vuvdlw ') and (position() = 1)]//div[@dir = 'auto']</value>
+      <webElementGuid>c0fc3a06-1b39-4b79-b580-af38940149f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-vuvdlw ') and (position() = 1)]//div[@dir = 'auto']</value>
+      <webElementGuid>c1dc6004-46b0-4d29-b4aa-83e76a69bbba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Casa' or . = 'Casa')]</value>
+      <webElementGuid>b81392f8-00c5-44b5-b878-24b9bf9cef2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

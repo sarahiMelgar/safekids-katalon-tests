@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ejecutar script Katalon: Ingresar correo y contraseña válidos y dar clic en 'Iniciar Sesión'.</description>
+   <name>HU1_TC01</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Sarahi Melgar</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+<<<<<<< HEAD:Test Cases/h1_TC01.tc
+            <value>Angelica Barrera</value>
+=======
+            <value>fanny Mercado</value>
+>>>>>>> 8b21419226d89bc86bfc865e923ebf12c8153fc7:Test Cases/HU1_TC01.tc
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+<<<<<<< HEAD:Test Cases/h1_TC01.tc
+            <value>fe3b9928-9282-41ae-85fd-abb052c35843</value>
+=======
+            <value>747bc60b-405c-4c26-ba54-8df01726bb96</value>
+>>>>>>> 8b21419226d89bc86bfc865e923ebf12c8153fc7:Test Cases/HU1_TC01.tc
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd760e57-d9cc-4cc1-adfb-635507a7b3c1</testCaseGuid>
+</TestCaseEntity>
