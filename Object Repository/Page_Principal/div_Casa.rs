@@ -3,22 +3,24 @@
    <description></description>
    <name>div_Casa</name>
    <tag></tag>
-   <elementGuidId>7e7befde-f39a-4892-bcb6-8f7b977bdad9</elementGuidId>
+   <elementGuidId>5fa206d7-b857-4a67-8b82-d438385b86f0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Casa' or . = 'Casa')]</value>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-vuvdlw ') and (position() = 1)]//div[@dir = 'auto']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>.r-vuvdlw:nth-child(1) div[dir=&quot;auto&quot;]</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-vuvdlw ') and (position() = 1)]//div[@dir = 'auto']</value>
-      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Casa&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3b8d37ab-840d-4d2e-87e3-9ff02b06142a</webElementGuid>
+      <webElementGuid>f4817db8-7b8c-4793-a746-851c5e07353c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +37,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>dbc2d93b-84d0-4953-a43c-5cb803e9f664</webElementGuid>
+      <webElementGuid>f87edab6-1d4f-4108-a53c-62b893856570</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-146c3p1 r-e0dy3h r-n6v787 r-b88u0q</value>
-      <webElementGuid>8ed95578-426b-459d-a943-b547760bc399</webElementGuid>
+      <webElementGuid>db97be66-20c8-432a-bf60-51064fdbff1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Casa</value>
-      <webElementGuid>4eb82557-c7b3-4678-ba0c-b759da356ee5</webElementGuid>
+      <webElementGuid>084f2596-6fbc-457d-badc-70035e6b8801</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +61,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-bbe0c0972d923d5369fdefe92dbe707f</value>
-      <webElementGuid>868bca71-c37b-4ff3-9901-647362b5cf21</webElementGuid>
+      <webElementGuid>3bf206ed-e434-4d67-ab12-79b10dc3e9aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-vuvdlw ') and (position() = 1)]//div[@dir = 'auto']</value>
-      <webElementGuid>852009f2-82c5-438e-a429-0bece471e4e4</webElementGuid>
+      <webElementGuid>c0fc3a06-1b39-4b79-b580-af38940149f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-vuvdlw ') and (position() = 1)]//div[@dir = 'auto']</value>
-      <webElementGuid>bd06f7ca-03e0-4739-bf97-8cd6a302fc12</webElementGuid>
+      <webElementGuid>c1dc6004-46b0-4d29-b4aa-83e76a69bbba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,14 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Casa' or . = 'Casa')]</value>
-      <webElementGuid>9836055b-ed5b-4e8f-b2cd-400e8234124d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//*[(name() = 'div') and (position() = 9)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-mmozmm ') and (@type = 'button')]//*[(@dir = 'auto') and (name() = 'div') and (position() = 2)]</value>
-      <webElementGuid>471463b0-ebff-4f85-a379-622a6c4c19e8</webElementGuid>
+      <webElementGuid>b81392f8-00c5-44b5-b878-24b9bf9cef2d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

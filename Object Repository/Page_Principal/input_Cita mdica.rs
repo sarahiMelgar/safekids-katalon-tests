@@ -3,22 +3,28 @@
    <description></description>
    <name>input_Cita mdica</name>
    <tag></tag>
-   <elementGuidId>c5b680f4-1d04-4a22-b2d5-70480a800c5c</elementGuidId>
+   <elementGuidId>89a3851d-a2f3-41f7-95e0-462d61b5a6e6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
          <value>//*[@placeholder = 'Cita médica']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[aria-label=&quot;Motivo\ \(opcional\)&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@aria-label = 'Motivo (opcional)']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-label=&quot;Motivo\ \(opcional\)&quot;]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Cita médica&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0757bdee-bcb8-4b1b-8cf2-449ee8e651c9</webElementGuid>
+      <webElementGuid>7df66708-6e0b-401a-9040-6c0762c936ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +41,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Cita médica</value>
-      <webElementGuid>d1a670e5-e291-4c25-ba7b-e5562f3aa086</webElementGuid>
+      <webElementGuid>38dbd9b2-3700-4d37-be34-c153bca54880</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +49,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>sentences</value>
-      <webElementGuid>605675ad-c0ad-45a1-b97d-da77bee0c133</webElementGuid>
+      <webElementGuid>6b9a35fc-6b09-4b80-bc6f-ee5ddafcdc35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +57,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>c71dc86c-aa86-4638-b385-a992e1e4ab6c</webElementGuid>
+      <webElementGuid>d71619f9-31b9-41f3-b8a6-5247d8485077</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +65,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>813edcd1-29ad-4c67-be65-986d519f6f2d</webElementGuid>
+      <webElementGuid>434bb804-9747-48dc-9032-c3b994eeee66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +73,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>cb28c422-382c-49d7-8f77-9fcebe24fe91</webElementGuid>
+      <webElementGuid>9dab6cd3-58d1-4431-ac8a-b49095402cf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +81,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>60be0bcd-e538-4c27-9041-947c65b3a11e</webElementGuid>
+      <webElementGuid>1eecd658-7ced-45e3-8178-1f8a742bfab9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +89,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>873ddb52-6b9c-4a92-96c7-eb31fd0715f7</webElementGuid>
+      <webElementGuid>4d61d786-df0f-4faa-ae95-a46dc60c61ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -91,7 +97,7 @@
       <name>virtualkeyboardpolicy</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>54bc8daa-d23b-4514-b346-55572c993d7a</webElementGuid>
+      <webElementGuid>8c51a69c-f896-4e3c-afd9-a420d28901f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,7 +105,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Motivo (opcional)</value>
-      <webElementGuid>833a7e84-fbec-4ced-89bb-e9cebbeb1bec</webElementGuid>
+      <webElementGuid>354297c9-53c1-4473-a48e-7161b27bb45b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -107,7 +113,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-11aywtz r-6taxm2 r-1ur434r r-13awgt0 r-ubezar r-lcslpx r-bnwqim r-184en5c</value>
-      <webElementGuid>4c38c977-75df-458c-946b-7d2f20ed52aa</webElementGuid>
+      <webElementGuid>65f9d695-432a-4270-8d3b-7fa621bca546</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -115,7 +121,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-dab94f5aa374205cd7087d4c94cc7780</value>
-      <webElementGuid>3c970dd8-59d2-4ec2-988f-1917f6c9efc6</webElementGuid>
+      <webElementGuid>0bea784f-83ac-4a90-97f8-c53c8be557f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -123,7 +129,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-label = 'Motivo (opcional)']</value>
-      <webElementGuid>24d4e7dd-cb37-4a0a-a621-411ea00e2939</webElementGuid>
+      <webElementGuid>f81384dc-b071-44ce-90e4-46bb99f2d77d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +137,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-label = 'Motivo (opcional)']</value>
-      <webElementGuid>e91f8b3f-15f6-46b6-80b1-1a64f2a78343</webElementGuid>
+      <webElementGuid>d9a82f3f-cf20-4096-a023-21677e0a01f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,6 +145,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Cita médica']</value>
-      <webElementGuid>b0f0ea6e-b71f-4586-a54f-25dc1d3b6bec</webElementGuid>
+      <webElementGuid>8e052ab2-1279-47f5-9c85-f0672b4ddc07</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,18 +3,28 @@
    <description></description>
    <name>div_m</name>
    <tag></tag>
-   <elementGuidId>52eb0536-ca9d-48c2-b77d-3cdc12ca8e54</elementGuidId>
+   <elementGuidId>0c1c7186-2ee0-41d8-864d-1a807245cbc7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#m</value>
+         <key>BASIC</key>
+         <value>//*[@id = 'm' and (text() = '+− Leaflet | © OpenStreetMap' or . = '+− Leaflet | © OpenStreetMap')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//*[@id = 'm']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#m</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;m&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d16a1138-4eab-4c7c-8ebe-96af48abc9ad</webElementGuid>
+      <webElementGuid>fa7c41b7-c6f8-4759-b3c6-259d5a41514b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +41,7 @@
       <name>id</name>
       <type>Main</type>
       <value>m</value>
-      <webElementGuid>32355675-5c56-4eb8-b7f5-d1d022635548</webElementGuid>
+      <webElementGuid>e5ebcaf1-978e-465c-9423-18d5a76ba9b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom</value>
-      <webElementGuid>4df2a268-097a-4a28-9b6b-5e4ef8ce4896</webElementGuid>
+      <webElementGuid>fad4c144-dd6a-46c5-9280-aa9ac2b550f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +57,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c441e04e-5bbe-4cdc-a252-e0afcbd9087d</webElementGuid>
+      <webElementGuid>246c1ea8-4862-45b7-8588-19706f0878f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,15 +65,15 @@
       <name>text</name>
       <type>Main</type>
       <value>+− Leaflet | © OpenStreetMap</value>
-      <webElementGuid>91e5573d-ab76-4b91-890a-65bca357b985</webElementGuid>
+      <webElementGuid>ab444485-d673-4df6-85a6-21b2ba886d2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-0d47d478084f223c28b64e23d302a682</value>
-      <webElementGuid>a5e5e668-dd3e-4569-b5e4-4eb91bfc957c</webElementGuid>
+      <value>md5.v1-c8a0b6bf055f771c4260e9b94d55fbf4</value>
+      <webElementGuid>419ea03d-a05c-4f28-a571-09dc836f2474</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,15 +81,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'm']</value>
-      <webElementGuid>7fc141a1-08ea-4dcc-a111-2320e9664cbf</webElementGuid>
+      <webElementGuid>1554ba8c-1d6a-421b-8740-abea555017b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Principal/iframe_Mapa</value>
-      <webElementGuid>c3245588-0bab-4301-bce4-55a22ecfd53e</webElementGuid>
+      <value>Object Repository/Page_Principal/iframe_ltima posicin</value>
+      <webElementGuid>5a64589b-bd6b-40b4-b8ae-67672a54be93</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'm']</value>
-      <webElementGuid>28ebd3f8-ce71-4493-9c43-8e7787365c93</webElementGuid>
+      <webElementGuid>9612010b-e1e9-46be-a9f1-c7e4c57808e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'm' and (text() = '+− Leaflet | © OpenStreetMap' or . = '+− Leaflet | © OpenStreetMap')]</value>
-      <webElementGuid>027ae3fc-bcda-4cbf-a0da-3cadf051885b</webElementGuid>
+      <webElementGuid>6700bbad-d987-447c-bf2d-76a0dc2685aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

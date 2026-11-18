@@ -3,18 +3,28 @@
    <description></description>
    <name>div_Maana</name>
    <tag></tag>
-   <elementGuidId>35af8c4a-0f24-442d-acd0-2902f016b19c</elementGuidId>
+   <elementGuidId>4eac9d43-fc89-487a-b330-6caa76c178e0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-child(16) div:nth-child(2) div[dir=&quot;auto&quot;]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Mañana' or . = 'Mañana')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//*[(name() = 'div') and (position() = 16)]//*[(name() = 'div') and (position() = 2)]//div[@dir = 'auto']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(16) div:nth-child(2) div[dir=&quot;auto&quot;]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Mañana&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8c140f49-cfce-4210-a598-217c6c6bf50c</webElementGuid>
+      <webElementGuid>c7ff800c-ead9-4352-90f0-ab50a36e9f50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +41,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>7bbfe466-fc07-4055-84aa-29e268bb564b</webElementGuid>
+      <webElementGuid>9cd76d96-4369-4321-b814-63aa5c603944</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-146c3p1 r-e0dy3h r-n6v787 r-b88u0q</value>
-      <webElementGuid>ee246262-8ca1-4dc1-b925-c04f7861378d</webElementGuid>
+      <webElementGuid>25fc7325-5e05-44ed-8182-82c137bebbdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Mañana</value>
-      <webElementGuid>64f4b504-3797-4ebc-8536-92071b183767</webElementGuid>
+      <webElementGuid>438dc576-6479-4369-86c6-382273235b9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-a9e7c11648e312e225ea541bfda71357</value>
-      <webElementGuid>dc22e06b-26f2-4a8d-b306-68801e468e8a</webElementGuid>
+      <webElementGuid>41b4552b-dc5e-4ac8-babc-d31edfab8638</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(name() = 'div') and (position() = 16)]//*[(name() = 'div') and (position() = 2)]//div[@dir = 'auto']</value>
-      <webElementGuid>be9bb900-5480-420d-8137-7d41bfbc9158</webElementGuid>
+      <webElementGuid>5718caf7-c98b-40d8-a8d1-9d1041ef99f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(name() = 'div') and (position() = 16)]//*[(name() = 'div') and (position() = 2)]//div[@dir = 'auto']</value>
-      <webElementGuid>75d4aabd-44de-4709-bfb0-18804fb3646c</webElementGuid>
+      <webElementGuid>372e3795-b7f5-4dd5-ad0d-e150de50fba1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Mañana' or . = 'Mañana')]</value>
-      <webElementGuid>730480ca-f885-46dc-aea9-0236bd050023</webElementGuid>
+      <webElementGuid>37481417-b238-4fca-b8a5-23fa3c0515fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,22 +3,28 @@
    <description></description>
    <name>div_Rutas temporales</name>
    <tag></tag>
-   <elementGuidId>039fe79b-10b0-4dad-870d-da21e9aef875</elementGuidId>
+   <elementGuidId>8eeae555-d2de-45c0-bd8e-396a45bb9156</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = 'Rutas temporales' or . = 'Rutas temporales')]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>[type=&quot;button&quot;]:nth-child(3) > div</value>
+         <value>//*[(text() = 'Rutas temporales' or . = 'Rutas temporales')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[(@type = 'button') and (position() = 3)]/div</value>
+         <value>//*[(@type = 'button') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-ubezar ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[type=&quot;button&quot;]:nth-child(3) .r-ubezar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Rutas temporales&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,39 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>83d1023c-53d3-44c7-90c3-38b4a2b4b30d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-g5y9jx r-1awozwy r-6ncur5 r-18u37iz r-1iud8zs r-3pj75a</value>
-      <webElementGuid>90996f87-4857-4f4d-9c49-b175766ed739</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Rutas temporales</value>
-      <webElementGuid>a8bff06d-8e69-4e8e-aa19-c14973c230fa</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>parent</name>
-      <type>Main</type>
-      <value>md5.v1-9525c13e33810a9de160ff68cdbd3893</value>
-      <webElementGuid>599650c1-0307-41fa-b393-f6c996335c9d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>//*[(@type = 'button') and (position() = 3)]/div</value>
-      <webElementGuid>2a644940-48d9-4f2f-a0d4-451fccec1dfc</webElementGuid>
+      <webElementGuid>2ee292ab-9f2b-4040-afab-d637e8b6eae5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,31 +41,47 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>a722b9c2-3b6e-4308-81d3-f20a54c6da32</webElementGuid>
+      <webElementGuid>889eed37-12e6-430d-a5b2-ac6ba76609e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-146c3p1 r-ubezar r-b88u0q r-19u6a5r</value>
+      <webElementGuid>14594087-f97c-47ae-8c88-aa744d7c34de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rutas temporales</value>
+      <webElementGuid>076a1474-0b4d-4245-b707-f3e80eccea67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-91555ffcadf4b9de9376b0610379a89b</value>
+      <webElementGuid>a31bb9af-631d-475d-8b64-c4cdf1e30aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@type = 'button') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-ubezar ')]</value>
+      <webElementGuid>87fb4bf4-4328-4c24-98da-4be44b2f8047</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(@type = 'button') and (position() = 3)]/div</value>
-      <webElementGuid>405f2dc4-f245-4706-b1e2-045ed82b92dc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'Rutas temporales' or . = 'Rutas temporales')]</value>
-      <webElementGuid>35fb7d27-57cf-4983-8e28-fff0a5d85f51</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
       <value>//*[(@type = 'button') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' r-ubezar ')]</value>
-      <webElementGuid>e2c00594-658e-4869-82dd-300319649d20</webElementGuid>
+      <webElementGuid>2a2cc92e-b2f9-4039-88a1-0c5ebdae4e69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +89,22 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Rutas temporales' or . = 'Rutas temporales')]</value>
-      <webElementGuid>2030ee8d-c7ae-45f6-91b2-192ba1be4ab3</webElementGuid>
+      <webElementGuid>fccb0ee8-bc9b-48af-95de-94c4f6df5682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@type = 'button') and (position() = 3)]/div</value>
+      <webElementGuid>a0a9030c-2b5d-4283-b9bd-0d6c24a45de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rutas temporales' or . = 'Rutas temporales')]</value>
+      <webElementGuid>c771a931-8897-4453-9320-99dd88613d3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

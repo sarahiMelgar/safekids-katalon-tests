@@ -3,22 +3,28 @@
    <description></description>
    <name>input_18_00</name>
    <tag></tag>
-   <elementGuidId>04185b40-c49d-46d7-83c4-0bf5ff225f50</elementGuidId>
+   <elementGuidId>52e2b553-b6d2-4184-9462-55c4c0a495f3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
          <value>//*[@placeholder = '18:00']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[aria-label=&quot;Fin\ \(24\ h\)&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@aria-label = 'Fin (24 h)']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-label=&quot;Fin\ \(24\ h\)&quot;]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;18:00&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dc219490-67e4-4782-a3c5-c6674d9b4b43</webElementGuid>
+      <webElementGuid>6125516e-00f6-4a1b-927f-da21575c21df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +41,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>18:00</value>
-      <webElementGuid>e1d40711-bd72-42c8-b580-bd4ac7d39ead</webElementGuid>
+      <webElementGuid>51ccab69-9d4e-4e23-a3c1-b60fc496eb09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +49,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>56701edb-4707-4455-9231-04118cf22886</webElementGuid>
+      <webElementGuid>860a57e4-95b5-4eef-97af-42d6adae7813</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +57,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>sentences</value>
-      <webElementGuid>4a7e5e2d-1fa0-4f32-99c0-da6e4936d633</webElementGuid>
+      <webElementGuid>9626aa72-b274-4cde-933f-d8dea429da7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +65,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>7965940c-7335-444a-a849-9d6c5bc50da2</webElementGuid>
+      <webElementGuid>7ebdc0f6-ef40-4c62-89e0-ebfd689118d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +73,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>7e515758-936a-4eba-8879-e282af559bf8</webElementGuid>
+      <webElementGuid>6ffb2452-f53f-4d43-b880-bc2d736d18ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +81,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>5d23263f-adc6-43e0-99eb-4e436fd627ff</webElementGuid>
+      <webElementGuid>a60bb283-a468-47d3-92b7-eccef3735278</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +89,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>numeric</value>
-      <webElementGuid>5a383806-dc5d-440a-acd5-3d0c9c0600f6</webElementGuid>
+      <webElementGuid>ae375a00-07f1-479a-bc56-56742e3bdd13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -91,7 +97,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>2aca230a-ee80-4b20-9605-25d6ef38cb4f</webElementGuid>
+      <webElementGuid>d0b11f90-38a0-45cf-8c24-f18215d5cd81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,7 +105,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>aa078957-efc4-4839-91e7-425f73475160</webElementGuid>
+      <webElementGuid>059ab118-e644-46f6-9724-153a3f09cf26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -107,7 +113,7 @@
       <name>virtualkeyboardpolicy</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>ecb78bb1-2688-412e-b060-ce93a7a51666</webElementGuid>
+      <webElementGuid>8ea93013-8ade-4f23-a535-55bbda1c739e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -115,7 +121,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Fin (24 h)</value>
-      <webElementGuid>33b091ef-55a6-49f1-8dca-a7d729882ed1</webElementGuid>
+      <webElementGuid>c8f83ec2-10ec-4f33-9b76-34d1283e3058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -123,7 +129,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-11aywtz r-6taxm2 r-1ur434r r-13awgt0 r-ubezar r-lcslpx r-bnwqim r-184en5c</value>
-      <webElementGuid>6561997f-b785-4664-8746-ef07126a985e</webElementGuid>
+      <webElementGuid>78ef1875-2317-42b0-a8fe-1f5193c89225</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -131,7 +137,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-1bd74e26e2b09d3ba93cf586255b4032</value>
-      <webElementGuid>d821c049-3503-4592-b651-ea1a20f65931</webElementGuid>
+      <webElementGuid>6a94a4be-2572-4778-bd0b-3aef84b30d2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -139,7 +145,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-label = 'Fin (24 h)']</value>
-      <webElementGuid>2f383c17-354f-404d-a0f8-ecacd2d4c8e2</webElementGuid>
+      <webElementGuid>8af173f8-c4a7-4696-816b-e53668c9c8ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,7 +153,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-label = 'Fin (24 h)']</value>
-      <webElementGuid>5b7e6920-f82c-412d-b917-a476902b6dea</webElementGuid>
+      <webElementGuid>75050c61-926e-4daf-8221-7cdcfa8e2be6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -155,6 +161,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = '18:00']</value>
-      <webElementGuid>9fe0f0c4-76c8-4277-a3ef-2d6dec40b593</webElementGuid>
+      <webElementGuid>1d97b661-8ea7-4e77-a144-bb07074ed174</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

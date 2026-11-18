@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Todas</name>
+   <tag></tag>
+   <elementGuidId>837529c9-a283-459c-9da2-2a6f55a80c56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 4)]/div/*[(name() = 'div') and (position() = 1)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(4) > div > div:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Todas$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2628e253-d077-4ac9-903a-70d8121adcab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9b420d4c-1b0d-4496-8aeb-b9898667ac16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-g5y9jx r-1loqt21 r-1otgn73 r-1awozwy r-1dzvdtw r-p1rij4 r-t23y2h r-1rf8fdq r-1r8g8re r-1777fci r-gu64tb</value>
+      <webElementGuid>cf30133b-0275-4b68-826d-ff371ffb9149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Todas</value>
+      <webElementGuid>32f91bac-a796-4001-8e17-c21dc1c46717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-275920bf98a739593ca67d954e2a36f8</value>
+      <webElementGuid>0502de3d-41e2-4881-9c98-7e247fe13bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 4)]/div/*[(name() = 'div') and (position() = 1)]</value>
+      <webElementGuid>3105334d-5ee6-43e4-a254-f80f547c837b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 4)]/div/*[(name() = 'div') and (position() = 1)]</value>
+      <webElementGuid>46315591-82dd-4700-b38c-2b0a1a4d1e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Todas' or . = 'Todas')]</value>
+      <webElementGuid>5f28022a-c95a-41f4-9f4b-644967614276</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

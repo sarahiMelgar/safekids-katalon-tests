@@ -3,22 +3,28 @@
    <description></description>
    <name>input_correoejemplo.com</name>
    <tag></tag>
-   <elementGuidId>55e34d95-bd6e-4e22-9727-debdd146cf89</elementGuidId>
+   <elementGuidId>f101a586-ab09-4f1d-96d2-2b767f4bed23</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
          <value>//*[@placeholder = 'correo@ejemplo.com' and @type = 'email']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[aria-label=&quot;Correo\ electrónico&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@aria-label = 'Correo electrónico']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-label=&quot;Correo\ electrónico&quot;]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;correo@ejemplo.com&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>66ef4c37-b8c8-47a9-9bec-0430f497e5aa</webElementGuid>
+      <webElementGuid>7c33e1f0-14a4-498d-92c3-4c751a1001da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +41,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>correo@ejemplo.com</value>
-      <webElementGuid>573f089b-8543-4810-bc7e-4c8ea820bd42</webElementGuid>
+      <webElementGuid>3bc7c8b7-0594-495a-97eb-5152644e1fab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +49,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>e36d1ed4-86cd-4ddd-b359-8631e0150661</webElementGuid>
+      <webElementGuid>5d83d06e-5332-475a-97fa-0f25077559a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +57,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>81138434-6951-4636-9afd-c0bf87e913dd</webElementGuid>
+      <webElementGuid>dd05ce20-091c-41b8-a9cc-66f4c4449005</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +65,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>74d75921-7ed7-42ad-b83c-5e891464fca2</webElementGuid>
+      <webElementGuid>7939e99a-a651-44de-a62c-d7e6bf8b62aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +73,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>6f719af5-62e9-45c9-b814-3d17d7a99b1b</webElementGuid>
+      <webElementGuid>78bc5b30-b113-4acd-a165-ca7df6ed9716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +81,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>3a7b0f2c-86b5-442c-adea-236ff773f11e</webElementGuid>
+      <webElementGuid>ffa31380-93ac-4fad-af8b-42960cd98156</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +89,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>55218bbb-4044-47d9-9b82-623c7212f9f2</webElementGuid>
+      <webElementGuid>e13bde82-461b-412a-acd4-80d587942638</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -91,7 +97,7 @@
       <name>virtualkeyboardpolicy</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>811a8c7c-e459-4a3d-8648-38a90e4cdb52</webElementGuid>
+      <webElementGuid>0281f406-de76-474c-a5dd-78b1d180bfcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,7 +105,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Correo electrónico</value>
-      <webElementGuid>47af1b16-770d-4d56-b0e3-cad617bb8d86</webElementGuid>
+      <webElementGuid>2676575d-31d5-4b27-9569-b654d6247dbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -107,7 +113,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-11aywtz r-6taxm2 r-1ur434r r-13awgt0 r-ubezar r-lcslpx r-bnwqim r-184en5c</value>
-      <webElementGuid>26820e28-d4cb-4ca7-83f7-2e87e4734da8</webElementGuid>
+      <webElementGuid>6b0be67b-e299-4c2d-927c-eb21078e832b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -115,7 +121,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>3c55bf06-0a0e-426a-b2a7-be07b595c77a</webElementGuid>
+      <webElementGuid>a7063efa-86b5-4534-b000-4bc21047dafb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -123,7 +129,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-0ac9cb0a2817df7c558c007f4ec99ea3</value>
-      <webElementGuid>b5e9e673-9ffd-4733-bad4-8f5836adef1d</webElementGuid>
+      <webElementGuid>d8b9005a-cf1c-4c58-8e4f-aee1afb657d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -131,7 +137,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-label = 'Correo electrónico']</value>
-      <webElementGuid>68b14e14-f65e-4fe2-9731-19229c3b2c4b</webElementGuid>
+      <webElementGuid>1916d911-6642-4032-9e07-7df3c46aac6b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,7 +145,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-label = 'Correo electrónico']</value>
-      <webElementGuid>ab9c67d7-51e2-4f82-9399-bcc288c3b65d</webElementGuid>
+      <webElementGuid>c95ad8a0-ffc2-4a6a-8867-a30a4347b613</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,6 +153,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'correo@ejemplo.com' and @type = 'email']</value>
-      <webElementGuid>6e450754-43b9-43c8-9d50-d06fe528cdc2</webElementGuid>
+      <webElementGuid>76679870-f3ec-48e7-9e57-709665380089</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
