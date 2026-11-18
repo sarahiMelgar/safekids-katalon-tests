@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tu nombre</name>
+   <tag></tag>
+   <elementGuidId>c7093a79-405a-4c1a-9cd0-8da1e89521f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Tu nombre']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-label=&quot;Nombre\ completo&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-label = 'Nombre completo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ca669eee-cf48-4c08-a2a7-2e4e3251075a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tu nombre</value>
+      <webElementGuid>1133cad2-ce43-4490-b5e6-808ebdcf3b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocapitalize</name>
+      <type>Main</type>
+      <value>words</value>
+      <webElementGuid>192a1437-48da-4bc9-b54d-c908422cdff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>03ac166c-7b81-4002-8037-4abbd9891de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocorrect</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>4bf6dc2b-1ac2-457c-bcb1-33a647780f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>56190518-9595-4a14-bda5-656814870488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>27ac414d-026f-48cb-b305-cbc5dad2b39a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1c535dcd-281e-4ff4-b0f5-2cf9809aff5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>virtualkeyboardpolicy</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>13bd927a-eebe-4530-a784-d83c213b0f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Nombre completo</value>
+      <webElementGuid>dc688f22-77dd-4059-aa5c-2df8dd08a20c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-11aywtz r-6taxm2 r-1ur434r r-13awgt0 r-ubezar r-lcslpx r-bnwqim r-184en5c</value>
+      <webElementGuid>94cc70b0-87bb-49b4-91ce-87b01253a6dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a6ae172ea7e1280c770b4d47229c690b</value>
+      <webElementGuid>b9642e32-a01f-4dfd-899e-8b687fbfd4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Nombre completo']</value>
+      <webElementGuid>43f8d60e-5c0b-46b8-a44d-8bcc3db60025</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Nombre completo']</value>
+      <webElementGuid>55ffa8e6-6e77-4145-9d2e-78418cc35825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Tu nombre']</value>
+      <webElementGuid>fda9fd89-6d7d-4cf1-8584-ae61a1e26a4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Ejecutar script Katalon: Ingresar correo y contraseña válidos y dar clic en 'Iniciar Sesión'.</description>
-   <name>h1_TC01</name>
+   <description>Intentar entrar a rutas internas (/inicio o /alertas) sin sesión iniciada.</description>
+   <name>HU1_TC03</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
@@ -11,12 +11,12 @@
             <value>Sarahi Melgar</value>
          </entry>
          <entry>
-            <key>lastModifiedByName</key>
-            <value>Sarahi Melgar</value>
-         </entry>
-         <entry>
             <key>createdByUuid</key>
             <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Sarahi Melgar</value>
          </entry>
          <entry>
             <key>lastModifiedByUuid</key>
@@ -27,5 +27,5 @@
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>bd760e57-d9cc-4cc1-adfb-635507a7b3c1</testCaseGuid>
+   <testCaseGuid>d12aca27-14a6-4533-84ef-c2c04895431e</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Cita mdica</name>
+   <tag></tag>
+   <elementGuidId>c5b680f4-1d04-4a22-b2d5-70480a800c5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Cita médica']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-label=&quot;Motivo\ \(opcional\)&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-label = 'Motivo (opcional)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0757bdee-bcb8-4b1b-8cf2-449ee8e651c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cita médica</value>
+      <webElementGuid>d1a670e5-e291-4c25-ba7b-e5562f3aa086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocapitalize</name>
+      <type>Main</type>
+      <value>sentences</value>
+      <webElementGuid>605675ad-c0ad-45a1-b97d-da77bee0c133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>c71dc86c-aa86-4638-b385-a992e1e4ab6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocorrect</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>813edcd1-29ad-4c67-be65-986d519f6f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>cb28c422-382c-49d7-8f77-9fcebe24fe91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>60be0bcd-e538-4c27-9041-947c65b3a11e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>873ddb52-6b9c-4a92-96c7-eb31fd0715f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>virtualkeyboardpolicy</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>54bc8daa-d23b-4514-b346-55572c993d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Motivo (opcional)</value>
+      <webElementGuid>833a7e84-fbec-4ced-89bb-e9cebbeb1bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-11aywtz r-6taxm2 r-1ur434r r-13awgt0 r-ubezar r-lcslpx r-bnwqim r-184en5c</value>
+      <webElementGuid>4c38c977-75df-458c-946b-7d2f20ed52aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dab94f5aa374205cd7087d4c94cc7780</value>
+      <webElementGuid>3c970dd8-59d2-4ec2-988f-1917f6c9efc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Motivo (opcional)']</value>
+      <webElementGuid>24d4e7dd-cb37-4a0a-a621-411ea00e2939</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Motivo (opcional)']</value>
+      <webElementGuid>e91f8b3f-15f6-46b6-80b1-1a64f2a78343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Cita médica']</value>
+      <webElementGuid>b0f0ea6e-b71f-4586-a54f-25dc1d3b6bec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
