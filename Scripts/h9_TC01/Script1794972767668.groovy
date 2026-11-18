@@ -18,3 +18,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('https://safekids-17k2.onrender.com/inicio')
+
+WebUI.setText(findTestObject('Page_Login/input_correoejemplo.com'), 'padre@safekids.com')
+
+WebUI.setEncryptedText(findTestObject('Page_Login/input_Tu contrasea'), '9OZSCXPBzZuqXCLJW9DsVg==')
+
+WebUI.click(findTestObject('Page_Login/div_Iniciar sesin'))
+
+WebUI.click(findTestObject('Page_Principal/div_Prediccin'))
+
+WebUI.click(findTestObject('Page_Principal/div_CON SEAL'))
+
+WebUI.click(findTestObject('Page_Principal/div_ltima ubicacin conocida_ Casa'))
+
+WebUI.click(findTestObject('Page_Principal/div_Zona alcanzable si se perdiera la seal_ rad'))
+
+WebUI.click(findTestObject('Page_Principal/div_Prediccin poco precisa_ hay pocas visitas'))
+
+WebUI.click(findTestObject('Page_Principal/path_leaflet-interactive'))
+
+WebUI.click(findTestObject('Page_Principal/div_div'))
+

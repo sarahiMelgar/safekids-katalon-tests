@@ -18,3 +18,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('https://safekids-17k2.onrender.com/inicio')
+
+WebUI.setText(findTestObject('Page_Login/input_correoejemplo.com'), 'padre@safekids.com')
+
+WebUI.click(findTestObject('Page_Login/div_Iniciar sesin'))
+
