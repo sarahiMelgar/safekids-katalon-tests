@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ejecutar script Katalon: Ingresar correo y contraseña válidos y dar clic en 'Iniciar Sesión'.</description>
+   <name>h1_TC01</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Sarahi Melgar</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Sarahi Melgar</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd760e57-d9cc-4cc1-adfb-635507a7b3c1</testCaseGuid>
+</TestCaseEntity>

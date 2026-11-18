@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Permite al padre de familia autenticarse mediante correo y contraseña, controla la expiración de sesión a las 24 horas y gestiona la recuperación de contraseña mediante código de 6 dígitos.</description>
-   <name>HU01 Inicio de sesión TC-01</name>
+   <description>Validar expiración de sesión tras 24 horas de actividad.</description>
+   <name>h1_TC04</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
@@ -27,5 +27,5 @@
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>64a84e86-1feb-4775-994a-7c4adb1fdf50</testCaseGuid>
+   <testCaseGuid>daf9a638-78b3-4b96-a49c-e72188a7fb0a</testCaseGuid>
 </TestCaseEntity>
