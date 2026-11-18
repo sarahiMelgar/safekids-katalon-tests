@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Iniciar app por primera vez sin permisos de notificación</description>
+   <name>h7_TC01</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Sarahi Melgar</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Sarahi Melgar</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>192b0213-017c-4cb5-9cf1-1f5c3f269c4f</testCaseGuid>
+</TestCaseEntity>

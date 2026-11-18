@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Con la app en segundo plano o cerrada, detonar una alerta del menor.</description>
+   <name>h7_TC02</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Sarahi Melgar</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Sarahi Melgar</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>5f0b2170-3023-4375-8801-e0d53953d34b</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56df427b-a3a1-4a78-92c4-e1859d7ccb2a</testCaseGuid>
+</TestCaseEntity>
